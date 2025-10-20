@@ -1,0 +1,2 @@
+* What is this?
+This is my Sway config! It's nothing too special, but it's mine.
