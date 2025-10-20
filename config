@@ -22,6 +22,21 @@ bindsym $mod+k focus up
 bindsym $mod+l focus down
 bindsym $mod+semicolon focus right
 
+
+# Move windows
+bindsym $mod+j move left
+bindsym $mod+k move up
+bindsym $mod+l move down
+bindsym $mod+semicolon move right
+
+
+# Move window
+bindsym $mod+j focus left
+bindsym $mod+k focus up
+bindsym $mod+l focus down
+bindsym $mod+semicolon focus right
+
+
 # Reload sway
 bindsym $mod+shift+r reload 
 
